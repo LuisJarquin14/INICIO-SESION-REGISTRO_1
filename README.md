@@ -20,6 +20,7 @@ Este repositorio incluye los siguientes archivos:
 - index.html
 - style.css
 - script.js
+- README.md
 
 ## Imágenes
 
